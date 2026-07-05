@@ -1,0 +1,16 @@
+langchain 
+langchain-community
+langchain-core
+
+langchain-google-genai
+langchain-ollama 
+langchain-huggingface
+huggingface-hub
+
+langgraph
+langgraph-checkpoint-sqlite
+
+python-dotenv
+ipykernel
+
+streamlit
